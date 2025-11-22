@@ -7,13 +7,17 @@
   "chapters": {
     "001": {
       "title": "GENL-0650-H DANGA",
-      "last_updated": "1763835856",
-      "groups": {}
+      "last_updated": "1763836341",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/5xy2qr6d9yl"
+      }
     },
     "029": {
       "title": "GENL-0856-H ROJI ROTI",
-      "last_updated": "1763835856",
-      "groups": {}
+      "last_updated": "1763836347",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/vj4jexb9x78"
+      }
     }
   }
 }
