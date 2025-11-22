@@ -1,0 +1,17 @@
+{
+  "title": "Adventures Into The Unknown 033 (c2c) (1952) (HP-Snard)",
+  "description": "Comic Description",
+  "artist": "Artist Name",
+  "author": "Author Name",
+  "cover": "https://cover-url.com/image.jpg",
+  "chapters": {
+    "001": {
+      "title": "First Chapter",
+      "last_updated": "1763804248",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/md7oa23blyp"
+      },
+      "volume": "01"
+    }
+  }
+}
