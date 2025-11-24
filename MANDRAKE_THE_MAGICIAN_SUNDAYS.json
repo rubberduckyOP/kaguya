@@ -4,5 +4,13 @@
   "artist": "Phil Davis/Fred Fredericks",
   "author": "Lee Falk",
   "cover": "https://www.mandrakewiki.org/images/thumb/f/f8/Mandrake-01-a1.jpg/459px-Mandrake-01-a1.jpg",
-  "chapters": {}
+  "chapters": {
+    "176": {
+      "title": "S176-Mandrake-Marries-Narda",
+      "last_updated": "1763971397",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/wl7laednpyx"
+      }
+    }
+  }
 }
