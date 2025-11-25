@@ -153,10 +153,10 @@
       }
     },
     "009": {
-      "title": "GENL-0704-H LAHRATA RAHEGA TIRANGA (PDF)",
-      "last_updated": "1763994454",
+      "title": "GENL-0704-H LAHRATA RAHEGA TIRANGA (Digital)",
+      "last_updated": "1764092283",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/5xy2qw5jnyl"
+        "johndrippah": "/proxy/api/imgchest/chapter/dl7pngvzkyo"
       }
     },
     "006": {
@@ -181,10 +181,10 @@
       }
     },
     "011": {
-      "title": "GENL-0720-H TIRANGA KA DUSHMAN (Digital) (PDF)",
-      "last_updated": "1763995657",
+      "title": "GENL-0720-H TIRANGA KA DUSHMAN (Digital)",
+      "last_updated": "1764092285",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/lqyed9kbx7d"
+        "johndrippah": "/proxy/api/imgchest/chapter/ne7b6g5xvy5"
       }
     },
     "020": {
@@ -339,6 +339,13 @@
       "last_updated": "1764012168",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/ljyqanldn72"
+      }
+    },
+    "048": {
+      "title": "SPCL-0141-H JHANDA UCHA RAHE HAMARA (PDF)",
+      "last_updated": "1764092311",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9p4nzgnll4n"
       }
     }
   }
