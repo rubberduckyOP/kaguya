@@ -1,0 +1,100 @@
+{
+  "title": "SHAKTI",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "004": {
+      "title": "GENL-0924-H MAUT KE DEEWANE(SCAN)(RFN)",
+      "last_updated": "1764185836",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7kkxp2m78"
+      }
+    },
+    "001": {
+      "title": "GENL-0909-H AAYI SHAKTI-(DIGITAL)(PDF)",
+      "last_updated": "1764185841",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7lwzplo4x"
+      }
+    },
+    "005": {
+      "title": "GENL-0934-H JOKER-(DIGITAL)(PDF)",
+      "last_updated": "1764185866",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg73oka237r"
+      }
+    },
+    "002": {
+      "title": "GENL-0914-H WARDI WALI AURAT (SCAN)(CC)",
+      "last_updated": "1764185872",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jmop5e48"
+      }
+    },
+    "003": {
+      "title": "GENL-0919-H PAWANPUTRI (SCAN)(CC)",
+      "last_updated": "1764185874",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqkgpmky2"
+      }
+    },
+    "006": {
+      "title": "GENL-0944-H KHABARDAR SHEHRI (SCAN)(RFN)",
+      "last_updated": "1764185883",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4gqv9zb7j"
+      }
+    },
+    "007": {
+      "title": "GENL-0948-H PUJA EXPRESS (pg 12 missing)",
+      "last_updated": "1764185891",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24a6x9dwyl"
+      }
+    },
+    "013": {
+      "title": "GENL-1015-H MAHABALA-(DIGITAL)(PDF)",
+      "last_updated": "1764185918",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yxnxplk7q"
+      }
+    },
+    "018": {
+      "title": "GENL-1091-H MAA (SCAN)(CC)",
+      "last_updated": "1764185918",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a846ornqv4x"
+      }
+    },
+    "019": {
+      "title": "GENL-1094-H SHARIR CHHALNI (SCAN)(CC)",
+      "last_updated": "1764185935",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9249kxn5ayn"
+      }
+    },
+    "037": {
+      "title": "GENL-1222-H-KAALI-CHHAYA-(SCAN)",
+      "last_updated": "1764185944",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7b6g9ovy5"
+      }
+    },
+    "038": {
+      "title": "GENL-1227-H-MAUT-KA-MAZAK-(SCAN)-(RCJ)-(CC)",
+      "last_updated": "1764185972",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7kkxpqm78"
+      }
+    },
+    "040": {
+      "title": "GENL-1234-H-TABAHI-(SCAN)",
+      "last_updated": "1764185977",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2oz5m84l"
+      }
+    }
+  }
+}
