@@ -1,29 +1,15 @@
 {
   "title": "SHAKTI",
-  "description": "",
-  "artist": "",
-  "author": "",
+  "description": "Shakti is the eternal power given by the Hindu goddess Kali to a normal woman Chanda. Her main motive is to protect women around the world from crime, injustice and brutality. With he divine powers she is one of the most powerful heroes of Raj Comics Universe.",
+  "artist": "Dheeraj Verma",
+  "author": "Misc",
   "cover": "",
   "chapters": {
-    "004": {
-      "title": "GENL-0924-H MAUT KE DEEWANE(SCAN)(RFN)",
-      "last_updated": "1764185836",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/na7kkxp2m78"
-      }
-    },
     "001": {
       "title": "GENL-0909-H AAYI SHAKTI-(DIGITAL)(PDF)",
       "last_updated": "1764185841",
       "groups": {
         "": "/proxy/api/imgchest/chapter/wl7lwzplo4x"
-      }
-    },
-    "005": {
-      "title": "GENL-0934-H JOKER-(DIGITAL)(PDF)",
-      "last_updated": "1764185866",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/pg73oka237r"
       }
     },
     "002": {
@@ -40,6 +26,20 @@
         "": "/proxy/api/imgchest/chapter/ljyqkgpmky2"
       }
     },
+    "004": {
+      "title": "GENL-0924-H MAUT KE DEEWANE(SCAN)(RFN)",
+      "last_updated": "1764185836",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7kkxp2m78"
+      }
+    },
+    "005": {
+      "title": "GENL-0934-H JOKER-(DIGITAL)(PDF)",
+      "last_updated": "1764185866",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg73oka237r"
+      }
+    },
     "006": {
       "title": "GENL-0944-H KHABARDAR SHEHRI (SCAN)(RFN)",
       "last_updated": "1764185883",
@@ -54,11 +54,74 @@
         "": "/proxy/api/imgchest/chapter/xny86pkp54b"
       }
     },
+    "008": {
+      "title": "GENL-0964-H CHORNI-(Digital)RCHQ",
+      "last_updated": "1768497290",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nkg6w54n"
+      }
+    },
+    "009": {
+      "title": "GENL-0978-H ADVOCATE MADHURI",
+      "last_updated": "1768497279",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9249lx9w84n"
+      }
+    },
+    "010": {
+      "title": "GENL-0988-H BORDER-(DIGITAL)(JOHN)",
+      "last_updated": "1768503969",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jno56e78"
+      }
+    },
+    "011": {
+      "title": "GENL-0993-H PHOOL AUR KAANTEN (SCAN)(CC)",
+      "last_updated": "1768497330",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7p5g6djyo"
+      }
+    },
+    "012": {
+      "title": "GENL-1001-H SAARE JAHAN SE UNCHA(SCAN)(CC)",
+      "last_updated": "1768497309",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7bng3kg75"
+      }
+    },
     "013": {
       "title": "GENL-1015-H MAHABALA-(DIGITAL)(PDF)",
       "last_updated": "1764185918",
       "groups": {
         "": "/proxy/api/imgchest/chapter/m9yxnxplk7q"
+      }
+    },
+    "014": {
+      "title": "GENL-1033-H CHINGARI(SCAN)(RFN)",
+      "last_updated": "1768497302",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7o5zvql4p"
+      }
+    },
+    "015": {
+      "title": "GENL-1056-H-YOGINI",
+      "last_updated": "1768499566",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg736k8xz7r"
+      }
+    },
+    "016": {
+      "title": "GENL-1069-H MAANG MEIN ANGAARE (DIGITAL)-RCHQ",
+      "last_updated": "1768497328",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2nzg83yl"
+      }
+    },
+    "017": {
+      "title": "GENL-1077-H DAYAN(SCAN)(RFN)",
+      "last_updated": "1768497324",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7l5z6234x"
       }
     },
     "018": {
@@ -75,74 +138,11 @@
         "": "/proxy/api/imgchest/chapter/9249kxn5ayn"
       }
     },
-    "037": {
-      "title": "GENL-1222-H-KAALI-CHHAYA-(SCAN)",
-      "last_updated": "1764185944",
+    "020": {
+      "title": "GENL-1104-H GANGA JAMUNA SARASWATI (SCAN)(CC)",
+      "last_updated": "1768499159",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b6g9ovy5"
-      }
-    },
-    "038": {
-      "title": "GENL-1227-H-MAUT-KA-MAZAK-(SCAN)-(RCJ)-(CC)",
-      "last_updated": "1764185972",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/na7kkxpqm78"
-      }
-    },
-    "040": {
-      "title": "GENL-1234-H-TABAHI-(SCAN)",
-      "last_updated": "1764185977",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2oz5m84l"
-      }
-    },
-    "009": {
-      "title": "GENL-0978-H ADVOCATE MADHURI",
-      "last_updated": "1768497279",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/9249lx9w84n"
-      }
-    },
-    "008": {
-      "title": "GENL-0964-H CHORNI-(Digital)RCHQ",
-      "last_updated": "1768497290",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4nkg6w54n"
-      }
-    },
-    "014": {
-      "title": "GENL-1033-H CHINGARI(SCAN)(RFN)",
-      "last_updated": "1768497302",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/md7o5zvql4p"
-      }
-    },
-    "012": {
-      "title": "GENL-1001-H SAARE JAHAN SE UNCHA(SCAN)(CC)",
-      "last_updated": "1768497309",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7bng3kg75"
-      }
-    },
-    "017": {
-      "title": "GENL-1077-H DAYAN(SCAN)(RFN)",
-      "last_updated": "1768497324",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l5z6234x"
-      }
-    },
-    "016": {
-      "title": "GENL-1069-H MAANG MEIN ANGAARE (DIGITAL)-RCHQ",
-      "last_updated": "1768497328",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2nzg83yl"
-      }
-    },
-    "011": {
-      "title": "GENL-0993-H PHOOL AUR KAANTEN (SCAN)(CC)",
-      "last_updated": "1768497330",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p5g6djyo"
+        "": "/proxy/api/imgchest/chapter/qb4zm6r23yj"
       }
     },
     "021": {
@@ -166,39 +166,11 @@
         "": "/proxy/api/imgchest/chapter/qe4gpv89r4j"
       }
     },
-    "020": {
-      "title": "GENL-1104-H GANGA JAMUNA SARASWATI (SCAN)(CC)",
-      "last_updated": "1768499159",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zm6r23yj"
-      }
-    },
     "024": {
       "title": "GENL-1137-H NISHACHARI(SCAN)(RFN)(PG 6 MISSING)",
       "last_updated": "1768499172",
       "groups": {
         "": "/proxy/api/imgchest/chapter/bp456knv275"
-      }
-    },
-    "015": {
-      "title": "GENL-1056-H-YOGINI",
-      "last_updated": "1768499566",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/pg736k8xz7r"
-      }
-    },
-    "029": {
-      "title": "GENL-1178-H SHAKTI KHATAM-(DIGITAL)-RCHQ",
-      "last_updated": "1768502051",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2nzxbzyl"
-      }
-    },
-    "028": {
-      "title": "GENL-1171-H MAHAVINASHAK-(DIGITAL)-RCHQ",
-      "last_updated": "1768502052",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/na7k5x2e378"
       }
     },
     "026": {
@@ -213,6 +185,20 @@
       "last_updated": "1768502055",
       "groups": {
         "": "/proxy/api/imgchest/chapter/wl7l5zl3x4x"
+      }
+    },
+    "028": {
+      "title": "GENL-1171-H MAHAVINASHAK-(DIGITAL)-RCHQ",
+      "last_updated": "1768502052",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7k5x2e378"
+      }
+    },
+    "029": {
+      "title": "GENL-1178-H SHAKTI KHATAM-(DIGITAL)-RCHQ",
+      "last_updated": "1768502051",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2nzxbzyl"
       }
     },
     "030": {
@@ -250,6 +236,13 @@
         "": "/proxy/api/imgchest/chapter/qb4zm6lwlyj"
       }
     },
+    "035": {
+      "title": "GENL-1211-H MAYAWI-(DIGITAL)-RCHQ",
+      "last_updated": "1768502116",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp456kj2v75"
+      }
+    },
     "036": {
       "title": "GENL-1214-H KRODH-(DIGITAL)-RCHQ",
       "last_updated": "1768502115",
@@ -257,11 +250,18 @@
         "": "/proxy/api/imgchest/chapter/xny82prqwyb"
       }
     },
-    "035": {
-      "title": "GENL-1211-H MAYAWI-(DIGITAL)-RCHQ",
-      "last_updated": "1768502116",
+    "037": {
+      "title": "GENL-1222-H-KAALI-CHHAYA-(SCAN)",
+      "last_updated": "1764185944",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp456kj2v75"
+        "": "/proxy/api/imgchest/chapter/ne7b6g9ovy5"
+      }
+    },
+    "038": {
+      "title": "GENL-1227-H-MAUT-KA-MAZAK-(SCAN)-(RCJ)-(CC)",
+      "last_updated": "1764185972",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7kkxpqm78"
       }
     },
     "039": {
@@ -271,18 +271,18 @@
         "": "/proxy/api/imgchest/chapter/o24anxdae7l"
       }
     },
+    "040": {
+      "title": "GENL-1234-H-TABAHI-(SCAN)",
+      "last_updated": "1764185977",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2oz5m84l"
+      }
+    },
     "041": {
       "title": "GENL-1237-H-MAUT-KE-PUTLE-(SCAN)-(CC)",
       "last_updated": "1768502180",
       "groups": {
         "": "/proxy/api/imgchest/chapter/m9yxdx5m64q"
-      }
-    },
-    "010": {
-      "title": "GENL-0988-H BORDER-(DIGITAL)(JOHN)",
-      "last_updated": "1768503969",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4jno56e78"
       }
     }
   }
