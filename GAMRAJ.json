@@ -20,10 +20,10 @@
       }
     },
     "007": {
-      "title": "GENL-0782-H JHOOM BARABAR JHOOM BARABAR-(RCHQ) (DIGITAL)",
-      "last_updated": "1769620380",
+      "title": "GENL-0782-H JHOOM BARABAR JHOOM (RCHQ) (DIGITAL)",
+      "last_updated": "1769623865",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/ne7bndbbn75"
+        "johndrippah": "/proxy/api/imgchest/chapter/xny82vd5dyb"
       }
     },
     "009": {
@@ -73,6 +73,20 @@
       "last_updated": "1769622088",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/m9yxdrwkp4q"
+      }
+    },
+    "026": {
+      "title": "GENL-0977-H PAANCH RUPAYE KAA MAKAAN (DIGITAL)",
+      "last_updated": "1769623864",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/o24anqr8w7l"
+      }
+    },
+    "016": {
+      "title": "GENL-0884-H KHOTA SIKKA (SCAN)",
+      "last_updated": "1769623866",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/bp456pl5g75"
       }
     }
   }
