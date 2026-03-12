@@ -1,0 +1,121 @@
+{
+  "title": "DOGA",
+  "description": "Unlike other superheroes, Doga has no superpowers and only has the ability to communicate with dogs in order to gather information. He solely relies on his combat skills, especially in martial arts and boxing, and his remarkable physical strength and stamina. Doga has a bold and valourous personality and takes the aid of various weapons and guns.",
+  "artist": "Manu(Edison George.A.)",
+  "author": "MISC",
+  "cover": "https://comicvine.gamespot.com/a/uploads/scale_large/5/56779/1150606-genl_0395a.jpg",
+  "chapters": {
+    "001": {
+      "title": "GENL-0395-H-EC-CURFEW (Digital)",
+      "last_updated": "1773309579",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/a84696a8w4x"
+      }
+    },
+    "003": {
+      "title": "GENL-0415-H-EC-MAIN-HOON-DOGA (Digital)",
+      "last_updated": "1773309580",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/agyvljd5978"
+      }
+    },
+    "002": {
+      "title": "GENL-0405-H-EC-YEH-HAI-DOGA (Digital)-R",
+      "last_updated": "1773309581",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqdk637q"
+      }
+    },
+    "004": {
+      "title": "GENL-0425-H ADRAK CHACHA (Digital)",
+      "last_updated": "1773309606",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/dl7p65j364o"
+      }
+    },
+    "006": {
+      "title": "GENL-0465-H CHOR-SIPAHI-(DIGITAL)(JOHN)",
+      "last_updated": "1773309608",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9ryden5kw4k"
+      }
+    },
+    "007": {
+      "title": "GENL-0476-H INSPECTOR CHEETA (Digital)",
+      "last_updated": "1773309613",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/ej7m6vmdb4d"
+      }
+    },
+    "005": {
+      "title": "GENL-0446-H GAINDA (Digital)",
+      "last_updated": "1773309617",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/pg73869ez4r"
+      }
+    },
+    "008": {
+      "title": "GENL-0486-H KUTTA FAUJ (Digital)(pg 8,16 missing)",
+      "last_updated": "1773309644",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqdke37q"
+      }
+    },
+    "009": {
+      "title": "GENL-0501-H MUQABLA (Digital)",
+      "last_updated": "1773309648",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/92499lz824n"
+      }
+    },
+    "012": {
+      "title": "GENL-0531-H HADTAAL (DIGITAL)",
+      "last_updated": "1773309656",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/dl7p65jl64o"
+      }
+    },
+    "010": {
+      "title": "GENL-0507-H BULLDOG (SCAN)(TARUN)",
+      "last_updated": "1773309657",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9p4n6kepz7n"
+      }
+    },
+    "014": {
+      "title": "GENL-0540-H BICHCHHU (DIGITAL)",
+      "last_updated": "1773309685",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/wl7l65xnq7x"
+      }
+    },
+    "013": {
+      "title": "GENL-0536-H DOGA JINDABAAD (DIGITAL)",
+      "last_updated": "1773309686",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/5xy2gnpr97l"
+      }
+    },
+    "015": {
+      "title": "GENL-0546-H AKHIRI GOLI-(DIGITAL)(JOHN)",
+      "last_updated": "1773309686",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/ljyq659jn42"
+      }
+    },
+    "016": {
+      "title": "GENL-0555-H DOGA AUR JHABRA (DIGITAL)(PDF)",
+      "last_updated": "1773309703",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/6eyr65gpgyp"
+      }
+    },
+    "019": {
+      "title": "GENL-0589-H GOLDEN HATYARA (DIGITAL)",
+      "last_updated": "1773309727",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/qe4g8pdoj7j"
+      }
+    }
+  }
+}
