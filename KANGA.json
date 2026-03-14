@@ -1,0 +1,37 @@
+{
+  "title": "KANGA",
+  "description": "KANGA.",
+  "artist": "Dilip Kadam",
+  "author": "MISC",
+  "cover": "groups: johndrippah",
+  "chapters": {
+    "0095": {
+      "title": "",
+      "last_updated": "1773523715",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2ggrwz7l"
+      }
+    },
+    "0099": {
+      "title": "",
+      "last_updated": "1773523717",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7l66nex7x"
+      }
+    },
+    "0091": {
+      "title": "",
+      "last_updated": "1773523719",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7knn99378"
+      }
+    },
+    "0107": {
+      "title": "",
+      "last_updated": "1773523726",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4j66xr3y8"
+      }
+    }
+  }
+}
