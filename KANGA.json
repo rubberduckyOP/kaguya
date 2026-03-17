@@ -1,36 +1,36 @@
 {
   "title": "KANGA",
-  "description": "KANGA.",
+  "description": "Kanga is a significant character in Manoj Comics, introduced as the first female superhero. Her story is set in a world where crows come to Earth in human form to play in the water. However, due to a drought, humans attack the crow community, leading to the crow king imposing strict rules. Kanga, the daughter of the crow king, breaks these rules to save herself and transform into a human to kill a snake that threatens her. This transformation leads her to live on Earth permanently, where she learns that not all humans are bad or good. Kanga's story is unique for its attention to detail and the concept of brotherhood, making her a memorable character in the Indian comic landscape.",
   "artist": "Dilip Kadam",
   "author": "MISC",
   "cover": "groups: johndrippah",
   "chapters": {
-    "0095": {
-      "title": "",
-      "last_updated": "1773523715",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2ggrwz7l"
-      }
-    },
-    "0099": {
-      "title": "",
-      "last_updated": "1773523717",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l66nex7x"
-      }
-    },
-    "0091": {
-      "title": "",
+    "001": {
+      "title": "SPCL-0091-H KAUWA (SCAN)(RFN)",
       "last_updated": "1773523719",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knn99378"
+        "johndrippah": "/proxy/api/imgchest/chapter/na7knn99378"
       }
     },
-    "0107": {
-      "title": "",
+    "002": {
+      "title": "SPCL-0095-H MAIN CHOR NAHI HOON (SCAN)(RFN)",
+      "last_updated": "1773523715",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/5xy2ggrwz7l"
+      }
+    },
+    "003": {
+      "title": "SPCL-0099-H BOMB (SCAN)(RFN)",
+      "last_updated": "1773523717",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/wl7l66nex7x"
+      }
+    },
+    "005": {
+      "title": "SPCL-0107-H JHOOT BOLE KAUWA KAATE (SCAN)(RFN)",
       "last_updated": "1773523726",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j66xr3y8"
+        "johndrippah": "/proxy/api/imgchest/chapter/vj4j66xr3y8"
       }
     }
   }
