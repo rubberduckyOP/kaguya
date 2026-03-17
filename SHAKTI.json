@@ -3,7 +3,7 @@
   "description": "Shakti is the eternal power given by the Hindu goddess Kali to a normal woman Chanda. Her main motive is to protect women around the world from crime, injustice and brutality. With he divine powers she is one of the most powerful heroes of Raj Comics Universe.",
   "artist": "Dheeraj Verma",
   "author": "Misc",
-  "cover": "",
+  "cover": "https://comicvine.gamespot.com/a/uploads/scale_large/5/56779/1153754-genl_0909.jpg",
   "chapters": {
     "001": {
       "title": "GENL-0909-H AAYI SHAKTI-(DIGITAL)(PDF)",
@@ -173,6 +173,13 @@
         "johndrippah": "/proxy/api/imgchest/chapter/bp456knv275"
       }
     },
+    "025": {
+      "title": "GENL-1144-H LADAAI-(DIGITAL)(PDF)",
+      "last_updated": "1768506755",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9p4nkgm2b4n"
+      }
+    },
     "026": {
       "title": "GENL-1149-H PANCH BHOOT-(DIGITAL)-RCHQ",
       "last_updated": "1768502054",
@@ -283,13 +290,6 @@
       "last_updated": "1768502180",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/m9yxdx5m64q"
-      }
-    },
-    "025": {
-      "title": "GENL-1144-H LADAAI-(DIGITAL)(PDF)",
-      "last_updated": "1768506755",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/9p4nkgm2b4n"
       }
     }
   }
