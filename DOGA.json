@@ -12,13 +12,6 @@
         "johndrippah": "/proxy/api/imgchest/chapter/a84696a8w4x"
       }
     },
-    "003": {
-      "title": "GENL-0415-H-EC-MAIN-HOON-DOGA (Digital)",
-      "last_updated": "1773309580",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/agyvljd5978"
-      }
-    },
     "002": {
       "title": "GENL-0405-H-EC-YEH-HAI-DOGA (Digital)-R",
       "last_updated": "1773309581",
@@ -26,11 +19,25 @@
         "johndrippah": "/proxy/api/imgchest/chapter/m9yxqdk637q"
       }
     },
+    "003": {
+      "title": "GENL-0415-H-EC-MAIN-HOON-DOGA (Digital)",
+      "last_updated": "1773309580",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/agyvljd5978"
+      }
+    },
     "004": {
       "title": "GENL-0425-H ADRAK CHACHA (Digital)",
       "last_updated": "1773309606",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/dl7p65j364o"
+      }
+    },
+    "005": {
+      "title": "GENL-0446-H GAINDA (Digital)",
+      "last_updated": "1773309617",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/pg73869ez4r"
       }
     },
     "006": {
@@ -47,13 +54,6 @@
         "johndrippah": "/proxy/api/imgchest/chapter/ej7m6vmdb4d"
       }
     },
-    "005": {
-      "title": "GENL-0446-H GAINDA (Digital)",
-      "last_updated": "1773309617",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/pg73869ez4r"
-      }
-    },
     "008": {
       "title": "GENL-0486-H KUTTA FAUJ (Digital)(pg 8 missing)",
       "last_updated": "1773328802",
@@ -68,13 +68,6 @@
         "johndrippah": "/proxy/api/imgchest/chapter/92499lz824n"
       }
     },
-    "012": {
-      "title": "GENL-0531-H HADTAAL (DIGITAL)",
-      "last_updated": "1773309656",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/dl7p65jl64o"
-      }
-    },
     "010": {
       "title": "GENL-0507-H BULLDOG (SCAN)(TARUN)",
       "last_updated": "1773309657",
@@ -82,11 +75,18 @@
         "johndrippah": "/proxy/api/imgchest/chapter/9p4n6kepz7n"
       }
     },
-    "014": {
-      "title": "GENL-0540-H BICHCHHU (DIGITAL)",
-      "last_updated": "1773309685",
+    "011": {
+      "title": "SPCL-0032-H KHATARNAK (Digital)",
+      "last_updated": "1773345418",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/wl7l65xnq7x"
+        "johndrippah": "/proxy/api/imgchest/chapter/9p4n6k8zb7n"
+      }
+    },
+    "012": {
+      "title": "GENL-0531-H HADTAAL (DIGITAL)",
+      "last_updated": "1773309656",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/dl7p65jl64o"
       }
     },
     "013": {
@@ -94,6 +94,13 @@
       "last_updated": "1773309686",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/5xy2gnpr97l"
+      }
+    },
+    "014": {
+      "title": "GENL-0540-H BICHCHHU (DIGITAL)",
+      "last_updated": "1773309685",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/wl7l65xnq7x"
       }
     },
     "015": {
@@ -110,18 +117,25 @@
         "johndrippah": "/proxy/api/imgchest/chapter/6eyr65gpgyp"
       }
     },
+    "017": {
+      "title": "GENL-0566-H SUPER BOY (SCAN)",
+      "last_updated": "1773326764",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/pg7386bwj4r"
+      }
+    },
+    "018": {
+      "title": "SPCL-0040-H TIRANGA (Digital)(blurry page 57)",
+      "last_updated": "1773345427",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/dl7p658n34o"
+      }
+    },
     "019": {
       "title": "GENL-0589-H GOLDEN HATYARA (DIGITAL)",
       "last_updated": "1773309727",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/qe4g8pdoj7j"
-      }
-    },
-    "022": {
-      "title": "GENL-0614-H JABARDAST-(DIGITAL)(JOHN)",
-      "last_updated": "1773309885",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/agyvlj6dj78"
       }
     },
     "020": {
@@ -131,11 +145,18 @@
         "johndrippah": "/proxy/api/imgchest/chapter/ej7m6v3kn4d"
       }
     },
-    "017": {
-      "title": "GENL-0566-H SUPER BOY (SCAN)",
-      "last_updated": "1773326764",
+    "021": {
+      "title": "SPCL-0048-H 786 (Digital)",
+      "last_updated": "1773345427",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/pg7386bwj4r"
+        "johndrippah": "/proxy/api/imgchest/chapter/ne7b3nq6my5"
+      }
+    },
+    "022": {
+      "title": "GENL-0614-H JABARDAST-(DIGITAL)(JOHN)",
+      "last_updated": "1773309885",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/agyvlj6dj78"
       }
     },
     "023": {
@@ -145,13 +166,6 @@
         "johndrippah": "/proxy/api/imgchest/chapter/a846965jv4x"
       }
     },
-    "025": {
-      "title": "GENL-0657-H TANDOOR (Digital)",
-      "last_updated": "1773342798",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/xny8925dd4b"
-      }
-    },
     "024": {
       "title": "GENL-0641-H BUBO BUBO (Digital)",
       "last_updated": "1773342798",
@@ -159,18 +173,18 @@
         "johndrippah": "/proxy/api/imgchest/chapter/bp45n65lg45"
       }
     },
+    "025": {
+      "title": "GENL-0657-H TANDOOR (Digital)",
+      "last_updated": "1773342798",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/xny8925dd4b"
+      }
+    },
     "026": {
       "title": "GENL-0672-H MAGARMACHH (Digital) (AbhiJain)(AI)",
       "last_updated": "1773342807",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/o24amn8rw4l"
-      }
-    },
-    "029": {
-      "title": "GENL-0712-H KAALI VIDHWA (SCAN)",
-      "last_updated": "1773342839",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/9p4n6kjrl7n"
       }
     },
     "027": {
@@ -187,6 +201,13 @@
         "johndrippah": "/proxy/api/imgchest/chapter/md7ov5qm9yp"
       }
     },
+    "029": {
+      "title": "GENL-0712-H KAALI VIDHWA (SCAN)",
+      "last_updated": "1773342839",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9p4n6kjrl7n"
+      }
+    },
     "030": {
       "title": "GENL-0717-H KHARAB KANOON (Digital) (PDF)",
       "last_updated": "1773342842",
@@ -194,18 +215,11 @@
         "johndrippah": "/proxy/api/imgchest/chapter/na7kn5vjm78"
       }
     },
-    "034": {
-      "title": "GENL-0770-H MAARA GAYA DOGA (Digital)(PDF)",
-      "last_updated": "1773342880",
+    "031": {
+      "title": "SPCL-0072-H I LOVE YOU (DIGITAL)(PDF)",
+      "last_updated": "1773345448",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/ljyq65rwk42"
-      }
-    },
-    "033": {
-      "title": "GENL-0760-H HAATH AUR HATHIYAAR (Digital)(PDF)",
-      "last_updated": "1773342880",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/5xy2gn8kn7l"
+        "johndrippah": "/proxy/api/imgchest/chapter/md7ov58b2yp"
       }
     },
     "032": {
@@ -215,11 +229,46 @@
         "johndrippah": "/proxy/api/imgchest/chapter/vj4j6ngley8"
       }
     },
+    "033": {
+      "title": "GENL-0760-H HAATH AUR HATHIYAAR (Digital)(PDF)",
+      "last_updated": "1773342880",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/5xy2gn8kn7l"
+      }
+    },
+    "034": {
+      "title": "GENL-0770-H MAARA GAYA DOGA (Digital)(PDF)",
+      "last_updated": "1773342880",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/ljyq65rwk42"
+      }
+    },
     "035": {
       "title": "GENL-0780-H MARENGE DOGA KE DUSHMAN (Digital)(PDF)",
       "last_updated": "1773342888",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/vj4j6ngl5y8"
+      }
+    },
+    "036": {
+      "title": "SPCL-0091-H SHER KA BACHCHA (SCAN)(RCJ)",
+      "last_updated": "1773492491",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/o24ammo3g4l"
+      }
+    },
+    "037": {
+      "title": "SPCL-0098-H KHAAKI AUR KHADDAR (DIGITAL)(AI)",
+      "last_updated": "1773505016",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/lqyezz5l3yd"
+      }
+    },
+    "038": {
+      "title": "SPCL-0101-H KHOONI PAHELIYAN (DIGITAL)(PDF)",
+      "last_updated": "1773751887",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqbkl37q"
       }
     },
     "039": {
@@ -236,13 +285,6 @@
         "johndrippah": "/proxy/api/imgchest/chapter/ej7m6vldq4d"
       }
     },
-    "042": {
-      "title": "GENL-0871-H DOGA KO GADO (Digital)(PDF)",
-      "last_updated": "1773342928",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/lqyezngxxyd"
-      }
-    },
     "041": {
       "title": "GENL-0853-H TROMBAY TRICK (Digital)(PDF)",
       "last_updated": "1773342935",
@@ -250,53 +292,11 @@
         "johndrippah": "/proxy/api/imgchest/chapter/qb4zrm8xg7j"
       }
     },
-    "011": {
-      "title": "SPCL-0032-H KHATARNAK (Digital)",
-      "last_updated": "1773345418",
+    "042": {
+      "title": "GENL-0871-H DOGA KO GADO (Digital)(PDF)",
+      "last_updated": "1773342928",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/9p4n6k8zb7n"
-      }
-    },
-    "018": {
-      "title": "SPCL-0040-H TIRANGA (Digital)(blurry page 57)",
-      "last_updated": "1773345427",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/dl7p658n34o"
-      }
-    },
-    "021": {
-      "title": "SPCL-0048-H 786 (Digital)",
-      "last_updated": "1773345427",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/ne7b3nq6my5"
-      }
-    },
-    "048": {
-      "title": "GENL-1011-H CHAAR MINAR-(DIGITAL)(JOHN)",
-      "last_updated": "1773345447",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/n87wjqmqx4x"
-      }
-    },
-    "031": {
-      "title": "SPCL-0072-H I LOVE YOU (DIGITAL)(PDF)",
-      "last_updated": "1773345448",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/md7ov58b2yp"
-      }
-    },
-    "052": {
-      "title": "GENL-1045-H VALENTINE (SCAN)(RFN)",
-      "last_updated": "1773345464",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/qb4zrmnm57j"
-      }
-    },
-    "051": {
-      "title": "GENL-1038-H BACHIYE MADAM (SCAN)(RFN)",
-      "last_updated": "1773345464",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/qe4g8pwpq7j"
+        "johndrippah": "/proxy/api/imgchest/chapter/lqyezngxxyd"
       }
     },
     "043": {
@@ -306,41 +306,6 @@
         "johndrippah": "/proxy/api/imgchest/chapter/xny89983p4b"
       }
     },
-    "038": {
-      "title": "SPCL-0101-H KHOONI PAHELIYAN (SCAN)(RFN)",
-      "last_updated": "1773492477",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/bp45nne3x45"
-      }
-    },
-    "036": {
-      "title": "SPCL-0091-H SHER KA BACHCHA (SCAN)(RCJ)",
-      "last_updated": "1773492491",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/o24ammo3g4l"
-      }
-    },
-    "055": {
-      "title": "GENL-1065-H JALLIANWALA (DIGITAL)(WATERMARK)",
-      "last_updated": "1773501275",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/924999nk24n"
-      }
-    },
-    "053": {
-      "title": "GENL-1055-H HEY RAM (DIGITAL)(WATERMARK)",
-      "last_updated": "1773501275",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/9p4n66ozz7n"
-      }
-    },
-    "054": {
-      "title": "GENL-1060-H TORCHER (DIGITAL)(WATERMARK)",
-      "last_updated": "1773501275",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqqpn37q"
-      }
-    },
     "044": {
       "title": "SPCL-0122-H BHOOL GAYA DOGA -(SCAN)R",
       "last_updated": "1773501293",
@@ -348,88 +313,11 @@
         "johndrippah": "/proxy/api/imgchest/chapter/agyvllpn978"
       }
     },
-    "059": {
-      "title": "GENL-1090-H CHAAR KILOMETER AAGE (Digital)",
-      "last_updated": "1773501298",
+    "045": {
+      "title": "SPCL-0131-H KHOON KA KHATARA",
+      "last_updated": "1773506285",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/dl7p66pn64o"
-      }
-    },
-    "058": {
-      "title": "GENL-1085-H-EC JARA BACH KE (DIGITAL)(WATERMARK)",
-      "last_updated": "1773501303",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/5xy2gg5oj7l"
-      }
-    },
-    "057": {
-      "title": "GENL-1075-H-EC-AAJ MAT JA (DIGITAL)(WATERMARK)",
-      "last_updated": "1773501304",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/wl7l66pwp7x"
-      }
-    },
-    "060": {
-      "title": "GENL-1095-H BODYGAURD (Digital)",
-      "last_updated": "1773501314",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/9rydee92w4k"
-      }
-    },
-    "062": {
-      "title": "GENL-1105-H BIK GAYA DOGA (SCAN)",
-      "last_updated": "1773501343",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/n87wjjpqz4x"
-      }
-    },
-    "061": {
-      "title": "GENL-1100-H VARDI WALA DOGA (SCAN)(RFN)",
-      "last_updated": "1773501347",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/lqyezzkn3yd"
-      }
-    },
-    "063": {
-      "title": "GENL-1106-H MUMBAI KA BAAP (SCAN)",
-      "last_updated": "1773501348",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/qb4zrr2m37j"
-      }
-    },
-    "064": {
-      "title": "GENL-1114-H RACE (SCAN)",
-      "last_updated": "1773501357",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/qe4g889pr7j"
-      }
-    },
-    "070": {
-      "title": "GENL-1155-H HEADLINE (SCAN)(RFN)",
-      "last_updated": "1773501372",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqqpd37q"
-      }
-    },
-    "065": {
-      "title": "GENL-1118-H HAR MOD PER KHADA HAI DOGA-(DIGITAL)(RCHQ)",
-      "last_updated": "1773501374",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/agyvllpj978"
-      }
-    },
-    "074": {
-      "title": "GENL-1183-H DOGA HAJIR HAI (SCAN)",
-      "last_updated": "1773501386",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/924999nl24n"
-      }
-    },
-    "082": {
-      "title": "GENL-1218-H JAAN JOKHIM MEIN (SCAN)(RFN)",
-      "last_updated": "1773501403",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/md7ovvp5dyp"
+        "johndrippah": "/proxy/api/imgchest/chapter/na7knnl6378"
       }
     },
     "046": {
@@ -446,11 +334,11 @@
         "johndrippah": "/proxy/api/imgchest/chapter/6eyr66waeyp"
       }
     },
-    "050": {
-      "title": "SPCL-0162-H TIME OVER (Digital)(PDF)",
-      "last_updated": "1773504912",
+    "048": {
+      "title": "GENL-1011-H CHAAR MINAR-(DIGITAL)(JOHN)",
+      "last_updated": "1773345447",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/o24amme634l"
+        "johndrippah": "/proxy/api/imgchest/chapter/n87wjqmqx4x"
       }
     },
     "049": {
@@ -460,11 +348,116 @@
         "johndrippah": "/proxy/api/imgchest/chapter/ej7m66qab4d"
       }
     },
+    "050": {
+      "title": "SPCL-0162-H TIME OVER (Digital)(PDF)",
+      "last_updated": "1773504912",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/o24amme634l"
+      }
+    },
+    "051": {
+      "title": "GENL-1038-H BACHIYE MADAM (SCAN)(RFN)",
+      "last_updated": "1773345464",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/qe4g8pwpq7j"
+      }
+    },
+    "052": {
+      "title": "GENL-1045-H VALENTINE (SCAN)(RFN)",
+      "last_updated": "1773345464",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/qb4zrmnm57j"
+      }
+    },
+    "053": {
+      "title": "GENL-1055-H HEY RAM (DIGITAL)(WATERMARK)",
+      "last_updated": "1773501275",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9p4n66ozz7n"
+      }
+    },
+    "054": {
+      "title": "GENL-1060-H TORCHER (DIGITAL)(WATERMARK)",
+      "last_updated": "1773501275",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqqpn37q"
+      }
+    },
+    "055": {
+      "title": "GENL-1065-H JALLIANWALA (DIGITAL)(WATERMARK)",
+      "last_updated": "1773501275",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/924999nk24n"
+      }
+    },
     "056": {
       "title": "SPCL-0186-H GHUSPAITHIYA (Digital)",
       "last_updated": "1773504957",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/6eyr66wneyp"
+      }
+    },
+    "057": {
+      "title": "GENL-1075-H-EC-AAJ MAT JA (DIGITAL)(WATERMARK)",
+      "last_updated": "1773501304",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/wl7l66pwp7x"
+      }
+    },
+    "058": {
+      "title": "GENL-1085-H-EC JARA BACH KE (DIGITAL)(WATERMARK)",
+      "last_updated": "1773501303",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/5xy2gg5oj7l"
+      }
+    },
+    "059": {
+      "title": "GENL-1090-H CHAAR KILOMETER AAGE (Digital)",
+      "last_updated": "1773501298",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/dl7p66pn64o"
+      }
+    },
+    "060": {
+      "title": "GENL-1095-H BODYGAURD (Digital)",
+      "last_updated": "1773501314",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9rydee92w4k"
+      }
+    },
+    "061": {
+      "title": "GENL-1100-H VARDI WALA DOGA (SCAN)(RFN)",
+      "last_updated": "1773501347",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/lqyezzkn3yd"
+      }
+    },
+    "062": {
+      "title": "GENL-1105-H BIK GAYA DOGA (SCAN)",
+      "last_updated": "1773501343",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/n87wjjpqz4x"
+      }
+    },
+    "063": {
+      "title": "GENL-1106-H MUMBAI KA BAAP (SCAN)",
+      "last_updated": "1773501348",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/qb4zrr2m37j"
+      }
+    },
+    "064": {
+      "title": "GENL-1114-H RACE (SCAN)",
+      "last_updated": "1773501357",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/qe4g889pr7j"
+      }
+    },
+    "065": {
+      "title": "GENL-1118-H HAR MOD PER KHADA HAI DOGA-(DIGITAL)(RCHQ)",
+      "last_updated": "1773501374",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/agyvllpj978"
       }
     },
     "066": {
@@ -481,27 +474,6 @@
         "johndrippah": "/proxy/api/imgchest/chapter/qe4g886pr7j"
       }
     },
-    "037": {
-      "title": "SPCL-0098-H KHAAKI AUR KHADDAR (DIGITAL)(AI)",
-      "last_updated": "1773505016",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/lqyezz5l3yd"
-      }
-    },
-    "045": {
-      "title": "SPCL-0131-H KHOON KA KHATARA",
-      "last_updated": "1773506285",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/na7knnl6378"
-      }
-    },
-    "071": {
-      "title": "SPCL-0261-H-EC-KYON-MAARUN-PAAGAL-KO",
-      "last_updated": "1773506299",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/5xy2ggvkz7l"
-      }
-    },
     "068": {
       "title": "SPCL-0238-H-EC-APUN-BOLA-KILL-DOGA",
       "last_updated": "1773506300",
@@ -509,25 +481,25 @@
         "johndrippah": "/proxy/api/imgchest/chapter/wl7l66jqx7x"
       }
     },
-    "076": {
-      "title": "SPCL-0289-H-EC-DOGA KI ADALAT",
-      "last_updated": "1773506356",
+    "069": {
+      "title": "SPCL-0245-H-EC-BOMBEY-DYING",
+      "last_updated": "1773515621",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/md7ovvrm2yp"
+        "johndrippah": "/proxy/api/imgchest/chapter/vj4j66lo9y8"
       }
     },
-    "077": {
-      "title": "SPCL-0296-H-EC-BOLI-AUR-BAAROOD",
-      "last_updated": "1773506381",
+    "070": {
+      "title": "GENL-1155-H HEADLINE (SCAN)(RFN)",
+      "last_updated": "1773501372",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/ljyq663jd42"
+        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqqpd37q"
       }
     },
-    "075": {
-      "title": "SPCL-0282-H-EC-DOGA KA POSTMORTEM",
-      "last_updated": "1773515617",
+    "071": {
+      "title": "SPCL-0261-H-EC-KYON-MAARUN-PAAGAL-KO",
+      "last_updated": "1773506299",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/wl7l66qz37x"
+        "johndrippah": "/proxy/api/imgchest/chapter/5xy2ggvkz7l"
       }
     },
     "072": {
@@ -544,11 +516,32 @@
         "johndrippah": "/proxy/api/imgchest/chapter/ljyq66wgd42"
       }
     },
-    "069": {
-      "title": "SPCL-0245-H-EC-BOMBEY-DYING",
-      "last_updated": "1773515621",
+    "074": {
+      "title": "GENL-1183-H DOGA HAJIR HAI (SCAN)",
+      "last_updated": "1773501386",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/vj4j66lo9y8"
+        "johndrippah": "/proxy/api/imgchest/chapter/924999nl24n"
+      }
+    },
+    "075": {
+      "title": "SPCL-0282-H-EC-DOGA KA POSTMORTEM",
+      "last_updated": "1773515617",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/wl7l66qz37x"
+      }
+    },
+    "076": {
+      "title": "SPCL-0289-H-EC-DOGA KI ADALAT",
+      "last_updated": "1773506356",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/md7ovvrm2yp"
+      }
+    },
+    "077": {
+      "title": "SPCL-0296-H-EC-BOLI-AUR-BAAROOD",
+      "last_updated": "1773506381",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/ljyq663jd42"
       }
     },
     "078": {
@@ -565,6 +558,27 @@
         "johndrippah": "/proxy/api/imgchest/chapter/bp45nngkv45"
       }
     },
+    "080": {
+      "title": "SPCL-0319-H-EC-KALU 420-DOGA-440 (DIGITAL)-R",
+      "last_updated": "1773654083",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/5xy2gmbz97l"
+      }
+    },
+    "081": {
+      "title": "SPCL-0327-H-EC-APUN-PAAGAL-HAI (DIGITAL)",
+      "last_updated": "1773654081",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/wl7l6d3zq7x"
+      }
+    },
+    "082": {
+      "title": "GENL-1218-H JAAN JOKHIM MEIN (SCAN)(RFN)",
+      "last_updated": "1773501403",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/md7ovvp5dyp"
+      }
+    },
     "083": {
       "title": "SPCL-0341-H-EC-DOGA MY BROTHER (DIGITAL)",
       "last_updated": "1773654080",
@@ -579,20 +593,6 @@
         "johndrippah": "/proxy/api/imgchest/chapter/vj4j6jqoxy8"
       }
     },
-    "081": {
-      "title": "SPCL-0327-H-EC-APUN-PAAGAL-HAI (DIGITAL)",
-      "last_updated": "1773654081",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/wl7l6d3zq7x"
-      }
-    },
-    "080": {
-      "title": "SPCL-0319-H-EC-KALU 420-DOGA-440 (DIGITAL)-R",
-      "last_updated": "1773654083",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/5xy2gmbz97l"
-      }
-    },
     "085": {
       "title": "SPCL-0356-H-EC-GOOD TIME BAD TIME (DIGITAL)",
       "last_updated": "1773654134",
@@ -600,18 +600,18 @@
         "johndrippah": "/proxy/api/imgchest/chapter/6eyr6zxggyp"
       }
     },
-    "087": {
-      "title": "SPCL-0369-H-EC-DOGA HE HI AISI CHEEZ (DIGITAL)",
-      "last_updated": "1773654136",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/pg7383b9j4r"
-      }
-    },
     "086": {
       "title": "SPCL-0360-H-EC-DAULAT HAI HI AISI CHEEZ (DIGITAL)",
       "last_updated": "1773654136",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/ej7m6r3mn4d"
+      }
+    },
+    "087": {
+      "title": "SPCL-0369-H-EC-DOGA HE HI AISI CHEEZ (DIGITAL)",
+      "last_updated": "1773654136",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/pg7383b9j4r"
       }
     },
     "088": {
@@ -628,18 +628,18 @@
         "johndrippah": "/proxy/api/imgchest/chapter/m9yxqlmmp7q"
       }
     },
-    "091": {
-      "title": "SPCL-0465-H GHONSA HINDUSTANI (DIGITAL)",
-      "last_updated": "1773655284",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/ne7b3o22my5"
-      }
-    },
     "090": {
       "title": "SPCL-0451-H DOGA HAMEIN DO (DIGITAL)",
       "last_updated": "1773655285",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/9p4n6m33b7n"
+      }
+    },
+    "091": {
+      "title": "SPCL-0465-H GHONSA HINDUSTANI (DIGITAL)",
+      "last_updated": "1773655284",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/ne7b3o22my5"
       }
     },
     "092": {
@@ -649,27 +649,6 @@
         "johndrippah": "/proxy/api/imgchest/chapter/dl7p6wkk34o"
       }
     },
-    "099": {
-      "title": "SPCL-0569-H GOLI NUMBER DUS (DIGITAL)",
-      "last_updated": "1773682347",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/a8469zo2v4x"
-      }
-    },
-    "098": {
-      "title": "SPCL-0556-H SURAJ DOGA BAN (DIGITAL)(PDF)",
-      "last_updated": "1773682361",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/agyvlankz78"
-      }
-    },
-    "097": {
-      "title": "SPCL-0541-H PANSA FENK TAMAASHA DEKH (DIGITAL)",
-      "last_updated": "1773682374",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqlnwk7q"
-      }
-    },
     "093": {
       "title": "SPCL-0495-H ANDHA DOGA (SCAN)",
       "last_updated": "1773682385",
@@ -677,11 +656,11 @@
         "johndrippah": "/proxy/api/imgchest/chapter/924995kra4n"
       }
     },
-    "100": {
-      "title": "SPCL-0581-H MAIN BHI POLICEWALA (SCAN)",
-      "last_updated": "1773682419",
+    "094": {
+      "title": "SPCL-0505-H KAHAN GAYA DOGA (DIGITAL)(PDF)",
+      "last_updated": "1773683443",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/ne7b3o6mvy5"
+        "johndrippah": "/proxy/api/imgchest/chapter/ej7m6regq4d"
       }
     },
     "095": {
@@ -698,11 +677,32 @@
         "johndrippah": "/proxy/api/imgchest/chapter/pg7383ozv4r"
       }
     },
-    "094": {
-      "title": "SPCL-0505-H KAHAN GAYA DOGA (DIGITAL)(PDF)",
-      "last_updated": "1773683443",
+    "097": {
+      "title": "SPCL-0541-H PANSA FENK TAMAASHA DEKH (DIGITAL)",
+      "last_updated": "1773682374",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/ej7m6regq4d"
+        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqlnwk7q"
+      }
+    },
+    "098": {
+      "title": "SPCL-0556-H SURAJ DOGA BAN (DIGITAL)(PDF)",
+      "last_updated": "1773682361",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/agyvlankz78"
+      }
+    },
+    "099": {
+      "title": "SPCL-0569-H GOLI NUMBER DUS (DIGITAL)",
+      "last_updated": "1773682347",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/a8469zo2v4x"
+      }
+    },
+    "100": {
+      "title": "SPCL-0581-H MAIN BHI POLICEWALA (SCAN)",
+      "last_updated": "1773682419",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/ne7b3o6mvy5"
       }
     }
   }
