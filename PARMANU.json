@@ -5,25 +5,11 @@
   "author": "Misc",
   "cover": "https://comicvine.gamespot.com/a/uploads/scale_large/5/56779/1150627-genl_0261.jpg",
   "chapters": {
-    "004": {
-      "title": "GENL-0276-H-EC-BLACK-OUT-R",
-      "last_updated": "1773854130",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/o24amlwbd4l"
-      }
-    },
     "001": {
       "title": "GENL-0261-H-EC-PARMANU-R",
       "last_updated": "1773854131",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/m9yxqbeop7q"
-      }
-    },
-    "003": {
-      "title": "GENL-0272-H-EC-BULLET-PROOF-R",
-      "last_updated": "1773854131",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/a8469me2z4x"
       }
     },
     "002": {
@@ -33,11 +19,25 @@
         "johndrippah": "/proxy/api/imgchest/chapter/bp45nrw9n45"
       }
     },
-    "007": {
-      "title": "GENL-0301-H DIAMOND KILLER (DIGITAL)(PDF)",
-      "last_updated": "1773854163",
+    "003": {
+      "title": "GENL-0272-H-EC-BULLET-PROOF-R",
+      "last_updated": "1773854131",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/9p4n6apbb7n"
+        "johndrippah": "/proxy/api/imgchest/chapter/a8469me2z4x"
+      }
+    },
+    "004": {
+      "title": "GENL-0276-H BLACKOUT-(DIGITAL)(JOHN)",
+      "last_updated": "1773859995",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/md7ovk6m2yp"
+      }
+    },
+    "005": {
+      "title": "GENL-0281-H-EC-MAKKHI-R",
+      "last_updated": "1773854165",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/ne7b3jebmy5"
       }
     },
     "006": {
@@ -47,11 +47,11 @@
         "johndrippah": "/proxy/api/imgchest/chapter/dl7p6blo34o"
       }
     },
-    "005": {
-      "title": "GENL-0281-H-EC-MAKKHI-R",
-      "last_updated": "1773854165",
+    "007": {
+      "title": "GENL-0301-H DIAMOND KILLER (DIGITAL)(PDF)",
+      "last_updated": "1773854163",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/ne7b3jebmy5"
+        "johndrippah": "/proxy/api/imgchest/chapter/9p4n6apbb7n"
       }
     },
     "008": {
@@ -89,25 +89,11 @@
         "johndrippah": "/proxy/api/imgchest/chapter/pg738qmng4r"
       }
     },
-    "017": {
-      "title": "GENL-0391-H STREET GANG (DIGITAL)(PDF)",
-      "last_updated": "1773854225",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/xny89wgd24b"
-      }
-    },
     "015": {
       "title": "GENL-0374-H KHOR (SCAN)",
       "last_updated": "1773854231",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/qe4g83agq7j"
-      }
-    },
-    "018": {
-      "title": "GENL-0401-H BAAROOD (SCAN)",
-      "last_updated": "1773854244",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/a8469mejz4x"
       }
     },
     "016": {
@@ -117,11 +103,18 @@
         "johndrippah": "/proxy/api/imgchest/chapter/bp45nrwln45"
       }
     },
-    "021": {
-      "title": "GENL-0431-H EK AUR PARMANU (DIGITAL)(PDF)",
-      "last_updated": "1773854273",
+    "017": {
+      "title": "GENL-0391-H STREET GANG (DIGITAL)(PDF)",
+      "last_updated": "1773854225",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/md7ovk2n2yp"
+        "johndrippah": "/proxy/api/imgchest/chapter/xny89wgd24b"
+      }
+    },
+    "018": {
+      "title": "GENL-0401-H BAAROOD (SCAN)",
+      "last_updated": "1773854244",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/a8469mejz4x"
       }
     },
     "019": {
@@ -138,11 +131,37 @@
         "johndrippah": "/proxy/api/imgchest/chapter/dl7p6bl234o"
       }
     },
+    "021": {
+      "title": "GENL-0431-H EK AUR PARMANU (DIGITAL)(PDF)",
+      "last_updated": "1773854273",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/md7ovk2n2yp"
+      }
+    },
+    "022": {
+      "title": "GENL-0448-H BAAJ (SCAN)(RCJ)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
     "024": {
       "title": "GENL-0467-H DARINDA (SCAN)",
       "last_updated": "1773854296",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/na7kng96378"
+      }
+    },
+    "026": {
+      "title": "GENL-0508-H SAVDHAN (SCAN)",
+      "last_updated": "1773854318",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/5xy2gjrkz7l"
+      }
+    },
+    "027": {
+      "title": "GENL-0520-H ROBO COURT (SCAN)",
+      "last_updated": "1773854488",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqbe6p7q"
       }
     },
     "029": {
@@ -152,12 +171,10 @@
         "johndrippah": "/proxy/api/imgchest/chapter/wl7l68nqx7x"
       }
     },
-    "026": {
-      "title": "GENL-0508-H SAVDHAN (SCAN)",
-      "last_updated": "1773854318",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/5xy2gjrkz7l"
-      }
+    "030": {
+      "title": "GENL-0552-H IRONSAUR (DIGITAL)(PDF)",
+      "last_updated": "1773859873",
+      "groups": {}
     },
     "031": {
       "title": "GENL-0561-H DOCTOR NO (SCAN)",
@@ -187,12 +204,80 @@
         "johndrippah": "/proxy/api/imgchest/chapter/qe4g83anq7j"
       }
     },
-    "027": {
-      "title": "GENL-0520-H ROBO COURT (SCAN)",
-      "last_updated": "1773854488",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqbe6p7q"
-      }
+    "035": {
+      "title": "GENL-0595-H VRIKSHA (SCAN)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "036": {
+      "title": "GENL-0615-H BLACK SPIDER (DIGITAL)(PDF)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "038": {
+      "title": "GENL-0629-H ANGAAR (DIGITAL)(PDF)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "039": {
+      "title": "GENL-0638-H GUNAKAAR-(DIGITAL)(JOHN)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "040": {
+      "title": "GENL-0647-H SHIKAAR (DIGITAL)(PDF)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "041": {
+      "title": "GENL-0652-H FANDEBAAZ (DIGITAL)(PDF)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "043": {
+      "title": "GENL-0667-H BUDDHIPALAT (DIGITAL)(PDF)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "044": {
+      "title": "GENL-0694-H BOMB (SCAN)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "045": {
+      "title": "GENL-0751-H KAANCH KA PARMANU (DIGITAL)(PDF)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "046": {
+      "title": "GENL-0761-H CHALTI FIRTI MAUT (SCAN)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "047": {
+      "title": "GENL-0765-H PARMANU KI MAUT (DIGITAL)(PDF)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "048": {
+      "title": "GENL-0777-H CRIME COLLEGE (SCAN)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "049": {
+      "title": "GENL-0787-H AKHIRI UDAAN (DIGITAL)(PDF)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "050": {
+      "title": "GENL-0797-H NAU DO GYARAH (DIGITAL)(PDF)",
+      "last_updated": "1773859873",
+      "groups": {}
+    },
+    "051": {
+      "title": "GENL-0807-H HOLIKA (SCAN)(MISSING PAGE 18)",
+      "last_updated": "1773859873",
+      "groups": {}
     }
   }
 }
