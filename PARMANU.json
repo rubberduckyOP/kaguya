@@ -140,8 +140,10 @@
     },
     "022": {
       "title": "GENL-0448-H BAAJ (SCAN)(RCJ)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860100",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqbzep7q"
+      }
     },
     "024": {
       "title": "GENL-0467-H DARINDA (SCAN)",
@@ -173,8 +175,10 @@
     },
     "030": {
       "title": "GENL-0552-H IRONSAUR (DIGITAL)(PDF)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860077",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/bp45nrawn45"
+      }
     },
     "031": {
       "title": "GENL-0561-H DOCTOR NO (SCAN)",
@@ -206,13 +210,17 @@
     },
     "035": {
       "title": "GENL-0595-H VRIKSHA (SCAN)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860106",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/92499eo8b4n"
+      }
     },
     "036": {
       "title": "GENL-0615-H BLACK SPIDER (DIGITAL)(PDF)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860078",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/o24amlzwd4l"
+      }
     },
     "038": {
       "title": "GENL-0629-H ANGAAR (DIGITAL)(PDF)",
@@ -221,63 +229,87 @@
     },
     "039": {
       "title": "GENL-0638-H GUNAKAAR-(DIGITAL)(JOHN)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860108",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/5xy2gjwwz7l"
+      }
     },
     "040": {
       "title": "GENL-0647-H SHIKAAR (DIGITAL)(PDF)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860130",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/vj4j6zrr3y8"
+      }
     },
     "041": {
       "title": "GENL-0652-H FANDEBAAZ (DIGITAL)(PDF)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860135",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/ljyq6bnnd42"
+      }
     },
     "043": {
       "title": "GENL-0667-H BUDDHIPALAT (DIGITAL)(PDF)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860138",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9rydedvva4k"
+      }
     },
     "044": {
       "title": "GENL-0694-H BOMB (SCAN)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860161",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/n87wjbwwx4x"
+      }
     },
     "045": {
       "title": "GENL-0751-H KAANCH KA PARMANU (DIGITAL)(PDF)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860165",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/lqyezr99myd"
+      }
     },
     "046": {
       "title": "GENL-0761-H CHALTI FIRTI MAUT (SCAN)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860164",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/qb4zrbaa57j"
+      }
     },
     "047": {
       "title": "GENL-0765-H PARMANU KI MAUT (DIGITAL)(PDF)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860175",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/bp45nraan45"
+      }
     },
     "048": {
       "title": "GENL-0777-H CRIME COLLEGE (SCAN)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860220",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/ne7b3j88my5"
+      }
     },
     "049": {
       "title": "GENL-0787-H AKHIRI UDAAN (DIGITAL)(PDF)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860192",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqbzzp7q"
+      }
     },
     "050": {
       "title": "GENL-0797-H NAU DO GYARAH (DIGITAL)(PDF)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860192",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/92499eoob4n"
+      }
     },
     "051": {
       "title": "GENL-0807-H HOLIKA (SCAN)(MISSING PAGE 18)",
-      "last_updated": "1773859873",
-      "groups": {}
+      "last_updated": "1773860231",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/wl7l6pzzx7x"
+      }
     }
   }
 }
