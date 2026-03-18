@@ -1,0 +1,191 @@
+{
+  "title": "PARMANU",
+  "description": "Parmanu's costume gives him super-powers, including flying, size-manipulation, & the ability to transform into atoms. His secret identity is Inspector Vinay, a police officer in New Delhi. Due to the wondrous nature of his powers, he is also called Wonderman Parmanu.",
+  "artist": "Manu (Edison George)",
+  "author": "Misc",
+  "cover": "https://comicvine.gamespot.com/a/uploads/scale_large/5/56779/1150627-genl_0261.jpg",
+  "chapters": {
+    "004": {
+      "title": "GENL-0276-H-EC-BLACK-OUT-R",
+      "last_updated": "1773854130",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/o24amlwbd4l"
+      }
+    },
+    "001": {
+      "title": "GENL-0261-H-EC-PARMANU-R",
+      "last_updated": "1773854131",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqbeop7q"
+      }
+    },
+    "003": {
+      "title": "GENL-0272-H-EC-BULLET-PROOF-R",
+      "last_updated": "1773854131",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/a8469me2z4x"
+      }
+    },
+    "002": {
+      "title": "GENL-0265-H-EC-AAG-R",
+      "last_updated": "1773854131",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/bp45nrw9n45"
+      }
+    },
+    "007": {
+      "title": "GENL-0301-H DIAMOND KILLER (DIGITAL)(PDF)",
+      "last_updated": "1773854163",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9p4n6apbb7n"
+      }
+    },
+    "006": {
+      "title": "GENL-0293-H-EC-JAUNK-R",
+      "last_updated": "1773854164",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/dl7p6blo34o"
+      }
+    },
+    "005": {
+      "title": "GENL-0281-H-EC-MAKKHI-R",
+      "last_updated": "1773854165",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/ne7b3jebmy5"
+      }
+    },
+    "008": {
+      "title": "GENL-0313-H UNDER WORLD (SCAN)",
+      "last_updated": "1773854177",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/md7ovk2o2yp"
+      }
+    },
+    "009": {
+      "title": "GENL-0332-H ALPIN (DIGITAL)(PDF)",
+      "last_updated": "1773854192",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/ljyq6bjld42"
+      }
+    },
+    "011": {
+      "title": "GENL-0341-H DADDU (DIGITAL)(PDF)",
+      "last_updated": "1773854194",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9rydedgwa4k"
+      }
+    },
+    "012": {
+      "title": "GENL-0346-H FAULAAD (pg 10 missing)",
+      "last_updated": "1773854197",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/6eyr6bqjxyp"
+      }
+    },
+    "014": {
+      "title": "GENL-0362-H GANGSTAR (DIGITAL)(PDF)",
+      "last_updated": "1773854207",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/pg738qmng4r"
+      }
+    },
+    "017": {
+      "title": "GENL-0391-H STREET GANG (DIGITAL)(PDF)",
+      "last_updated": "1773854225",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/xny89wgd24b"
+      }
+    },
+    "015": {
+      "title": "GENL-0374-H KHOR (SCAN)",
+      "last_updated": "1773854231",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/qe4g83agq7j"
+      }
+    },
+    "018": {
+      "title": "GENL-0401-H BAAROOD (SCAN)",
+      "last_updated": "1773854244",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/a8469mejz4x"
+      }
+    },
+    "016": {
+      "title": "GENL-0380-H BLADE (SCAN)",
+      "last_updated": "1773854252",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/bp45nrwln45"
+      }
+    },
+    "021": {
+      "title": "GENL-0431-H EK AUR PARMANU (DIGITAL)(PDF)",
+      "last_updated": "1773854273",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/md7ovk2n2yp"
+      }
+    },
+    "019": {
+      "title": "GENL-0408-H KEKDA (SCAN)",
+      "last_updated": "1773854279",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9p4n6ap9b7n"
+      }
+    },
+    "020": {
+      "title": "GENL-0414-H DYNAMITE (SCAN)",
+      "last_updated": "1773854281",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/dl7p6bl234o"
+      }
+    },
+    "024": {
+      "title": "GENL-0467-H DARINDA (SCAN)",
+      "last_updated": "1773854296",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/na7kng96378"
+      }
+    },
+    "029": {
+      "title": "GENL-0535-H LATTU (SCAN)",
+      "last_updated": "1773854315",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/wl7l68nqx7x"
+      }
+    },
+    "026": {
+      "title": "GENL-0508-H SAVDHAN (SCAN)",
+      "last_updated": "1773854318",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/5xy2gjrkz7l"
+      }
+    },
+    "031": {
+      "title": "GENL-0561-H DOCTOR NO (SCAN)",
+      "last_updated": "1773854331",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9rydedgka4k"
+      }
+    },
+    "032": {
+      "title": "GENL-0570-H JURASSIC KAAL (SCAN)",
+      "last_updated": "1773854381",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/lqyezr8xmyd"
+      }
+    },
+    "033": {
+      "title": "GENL-0580-H TYPHOON (SCAN)",
+      "last_updated": "1773854383",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/qb4zrbgx57j"
+      }
+    },
+    "034": {
+      "title": "GENL-0590-H MADAM COLD (SCAN)",
+      "last_updated": "1773854392",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/qe4g83anq7j"
+      }
+    }
+  }
+}
