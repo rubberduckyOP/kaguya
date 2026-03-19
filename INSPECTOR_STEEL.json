@@ -251,17 +251,17 @@
       }
     },
     "041": {
-      "title": "GENL-0998-H MACHINE MERI GULAAM (Digital)",
-      "last_updated": "1773922060",
+      "title": "GENL-0986-H MACHINE FAIL (SCAN)(PDF)",
+      "last_updated": "1773932868",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/a8469n6bv4x"
+        "johndrippah": "/proxy/api/imgchest/chapter/ljyq6pene42"
       }
     },
     "042": {
-      "title": "GENL-1006-H PIGHAL GAYA STEEL (Scan)(PDF)",
-      "last_updated": "1773922084",
+      "title": "GENL-0991-H WONDER WOMAN-(Digital)(RCHQ)(PDF)",
+      "last_updated": "1773932865",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqpdok7q"
+        "johndrippah": "/proxy/api/imgchest/chapter/vj4j6pjr5y8"
       }
     },
     "045": {
@@ -325,6 +325,27 @@
       "last_updated": "1773928421",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/9p4n6oqwm7n"
+      }
+    },
+    "043": {
+      "title": "GENL-0998-H MACHINE MERI GULAAM (Digital)",
+      "last_updated": "1773932861",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/wl7l6pde67x"
+      }
+    },
+    "023": {
+      "title": "GENL-0831-H ADTALEES GHANTE (DIGITAL)(RCHQ)(PDF)",
+      "last_updated": "1773932865",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9ryde9ovd4k"
+      }
+    },
+    "044": {
+      "title": "GENL-1006-H PIGHAL GAYA STEEL (Scan)(PDF)",
+      "last_updated": "1773932910",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/m9yxqpbxm7q"
       }
     }
   }
