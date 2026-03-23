@@ -4,13 +4,5 @@
   "artist": "MISC",
   "author": "MISC",
   "cover": "https://mysubs.in/wp-content/uploads/tinkle-origins-volume-three-magazine-26-May-2019.jpg",
-  "chapters": {
-    "1": {
-      "title": "Ch.1",
-      "last_updated": "1774304373",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/qb4zrx6z57j"
-      }
-    }
-  }
+  "chapters": {}
 }
