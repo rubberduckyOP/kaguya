@@ -5,18 +5,11 @@
   "author": "MISC",
   "cover": "https://mysubs.in/wp-content/uploads/tinkle-origins-volume-three-magazine-26-May-2019.jpg",
   "chapters": {
-    "001": {
-      "title": "Tinkle Origins 01",
-      "last_updated": "1774304373",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/qb4zrx6z57j"
-      }
-    },
-    "1": {
-      "title": "Ch.1",
+    "002": {
+      "title": "Tinkle Origins 02",
       "last_updated": "1774306409",
       "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/n87wja6l34x"
+        "johndrippah": "/proxy/api/imgchest/chapter/n87wja6l34x|"
       }
     }
   }
