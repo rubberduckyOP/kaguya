@@ -19,12 +19,43 @@
         "johndrippah": "/proxy/api/imgchest/chapter/n87wja6l34x"
       }
     },
+    "003": {
+      "title": "Tinkle Origins 03",
+      "last_updated": "1787259934",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/md7or2jel7p"
+      }
+    },
+    "004": {
+      "title": "Tinkle Origins 04",
+      "last_updated": "1787259634",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/dl7pmlzkj7o"
+      }
+    },
     "006": {
       "title": "Tinkle Origins 06",
       "last_updated": "1787259514",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/5xy2vrlb37l"
       }
+    },
+    "008": {
+      "title": "Tinkle Origins 08",
+      "last_updated": "1787260234",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/5xy2vrlb37l"
+      }
+    },
+    "009": {
+      "title": "Tinkle Origins 09",
+      "last_updated": "1787260933",
+      "groups": {}
+    },
+    "010": {
+      "title": "Tinkle Origins 10",
+      "last_updated": "1787260933",
+      "groups": {}
     }
   }
 }
