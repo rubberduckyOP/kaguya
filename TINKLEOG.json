@@ -12,62 +12,6 @@
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/qb4zrx6z57j"
       }
-    },
-    "002": {
-      "title": "Tinkle Origins 02",
-      "volume": "",
-      "last_updated": "1787582177",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wja6l34x"
-      }
-    },
-    "003": {
-      "title": "Tinkle Origins 03",
-      "volume": "",
-      "last_updated": "1787582177",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/md7or2jel7p"
-      }
-    },
-    "004": {
-      "title": "Tinkle Origins 04",
-      "volume": "",
-      "last_updated": "1787582177",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7pmlzkj7o"
-      }
-    },
-    "006": {
-      "title": "Tinkle Origins 06",
-      "volume": "",
-      "last_updated": "1787582177",
-      "groups": {
-        "": [
-          "/proxy/api/imgchest/chapter/5xy2vrlb37l"
-        ]
-      }
-    },
-    "008": {
-      "title": "Tinkle Origins 08",
-      "volume": "",
-      "last_updated": "1787582177",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/na7kl9wdwy8"
-      }
-    },
-    "009": {
-      "title": "Tinkle Origins 09",
-      "volume": "",
-      "last_updated": "1787582177",
-      "groups": {}
-    },
-    "010": {
-      "title": "Tinkle Origins 10",
-      "volume": "",
-      "last_updated": "1787582016",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/n87woggqzyx"
-      }
     }
   }
 }
