@@ -4,14 +4,5 @@
   "artist": "MISC",
   "author": "MISC",
   "cover": "",
-  "chapters": {
-    "001": {
-      "title": "Tinkle Origins 01",
-      "volume": "",
-      "last_updated": "1774304373",
-      "groups": {
-        "johndrippah": "/proxy/api/imgchest/chapter/qb4zrx6z57j"
-      }
-    }
-  }
+  "chapters": {}
 }
