@@ -63,6 +63,7 @@
     },
     "007": {
       "title": "GENL-0140-H-EC-BARF-KI-CHITA",
+      "volume": "",
       "last_updated": "1787591011",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/6eyro8a8lyp"
@@ -70,6 +71,7 @@
     },
     "009": {
       "title": "GENL-0147-H-EC-LAHOO-KE-PYASE",
+      "volume": "",
       "last_updated": "1787591012",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/9rydbaqa64k"
@@ -77,6 +79,7 @@
     },
     "010": {
       "title": "GENL-0179-H-EC-MAHA-MANAV",
+      "volume": "",
       "last_updated": "1787591176",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/qe4gbxm5b7j"
@@ -84,6 +87,7 @@
     },
     "011": {
       "title": "GENL-0185-H-EC-VOO-DOO",
+      "volume": "",
       "last_updated": "1787591177",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/xny8joe5d7b"
@@ -91,6 +95,7 @@
     },
     "013": {
       "title": "GENL-0222-H-EC-BEHRI-MAUT",
+      "volume": "",
       "last_updated": "1787591323",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/na7kbeakm78"
@@ -98,6 +103,7 @@
     },
     "012": {
       "title": "GENL-0193-H-EC-MUJHE-MAUT-CHAHIYE",
+      "volume": "",
       "last_updated": "1787591325",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/5xy263qo84l"
@@ -105,6 +111,7 @@
     },
     "014": {
       "title": "GENL-0230-H-EC-UDANTASHTARI-KE-BANDHAK",
+      "volume": "",
       "last_updated": "1787591472",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/md7ooxava7p"
@@ -112,6 +119,7 @@
     },
     "015": {
       "title": "GENL-0246-H-EC-EK-DIN-KI-MAUT",
+      "volume": "",
       "last_updated": "1787591474",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/na7kbeank78"
@@ -119,6 +127,7 @@
     },
     "018": {
       "title": "GENL-0285-H-EC-CHAMPION-KILLER",
+      "volume": "",
       "last_updated": "1787591564",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/lqyeb6dwxyd"
@@ -126,6 +135,7 @@
     },
     "017": {
       "title": "GENL-0255-H-EC-VINAASH-KE-VRIKSH",
+      "volume": "",
       "last_updated": "1787591567",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/qb4zoj5lg7j"
@@ -133,9 +143,18 @@
     },
     "024": {
       "title": "GENL-0385-H VIDEO VILLIAN",
+      "volume": "",
       "last_updated": "1787591643",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/qb4zoj5qg7j"
+      }
+    },
+    "019": {
+      "title": "GENL-0290-H-EC-AKHIRI-DAON",
+      "volume": "",
+      "last_updated": "1787592016",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/ej7mokarq4d"
       }
     }
   }
