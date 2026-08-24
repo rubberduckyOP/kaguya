@@ -1,0 +1,57 @@
+{
+  "title": "DHRUV",
+  "description": "Super Commando Dhruva is a iconic superhero known for his exceptional intellect, martial arts prowess, and strategic thinking. Dhruva operates in the city of Rajnagar, fighting crime and defending the innocent with his array of gadgets and unmatched determination. His character is defined by his unwavering commitment to justice and his ability to outsmart his adversaries. ",
+  "artist": "Anupam Sinha",
+  "author": "Anupam Sinha",
+  "cover": "https://comicvine.gamespot.com/a/uploads/scale_large/5/56779/1154495-genl_0450_h.jpg",
+  "chapters": {
+    "001": {
+      "title": "GENL-0074-H-EC-PRATISHODH-KI-JWALA",
+      "volume": "",
+      "last_updated": "1787585077",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9p4nbldjm4n"
+      }
+    },
+    "002": {
+      "title": "GENL-0079-H-EC-ROMAN-HATYARA",
+      "volume": "",
+      "last_updated": "1787585112",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/n87wor59xyx"
+      }
+    },
+    "003": {
+      "title": "GENL-0092-H AADAMKHORO KA SWARG-(DIGITAL)(JOHN)",
+      "volume": "",
+      "last_updated": "1787585130",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/6eyrodwaxyp"
+      }
+    },
+    "004": {
+      "title": "GENL-0096-H-EC-SWARG-KI-TABAHI",
+      "volume": "",
+      "last_updated": "1787585153",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/pg73vjxdgyr"
+      }
+    },
+    "005": {
+      "title": "GENL-0116-H-EC-MAUT-KA-OLYMPIC",
+      "volume": "",
+      "last_updated": "1787585195",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/lqyebp5dmyd"
+      }
+    },
+    "006": {
+      "title": "GENL-0138-H-EC-SAMUDRA-KA-SHAITAAN",
+      "volume": "",
+      "last_updated": "1787585216",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/qb4zoj9257j"
+      }
+    }
+  }
+}
