@@ -4,5 +4,13 @@
   "artist": "MISC",
   "author": "MISC",
   "cover": "https://comicvine.gamespot.com/a/uploads/scale_large/12/124613/8445095-tinkle479pagecover.jpg",
-  "chapters": {}
+  "chapters": {
+    "084": {
+      "title": "TINKLE-E-084",
+      "last_updated": "1787577001",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/xny8jox857b"
+      }
+    }
+  }
 }
