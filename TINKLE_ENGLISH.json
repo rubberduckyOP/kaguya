@@ -1,13 +1,12 @@
 {
   "title": "TINKLE (ENGLISH)",
-  "description": "Tinkle is an Indian weekly magazine for children in English, published from Mumbai. Originally owned by the India Book House, the Tinkle brand was acquired by ACK Media in 2007.",
+  "description": "Tinkle is an Indian weekly magazine for children in English, published from Mumbai. Originally owned by the India Book House, the Tinkle brand was acquired by ACK Media in 2007..",
   "artist": "MISC",
   "author": "MISC",
   "cover": "https://comicvine.gamespot.com/a/uploads/scale_large/12/124613/8445095-tinkle479pagecover.jpg",
   "chapters": {
     "084": {
       "title": "TINKLE-E-084",
-      "volume": "",
       "last_updated": "1787577001",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/xny8jox857b"
@@ -15,10 +14,16 @@
     },
     "083": {
       "title": "TINKLE-E-083",
-      "volume": "",
       "last_updated": "1787580879",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/n87wogr3xyx"
+      }
+    },
+    "178": {
+      "title": "TINKLE-E-178",
+      "last_updated": "1787589521",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9p4nbxjrm4n"
       }
     }
   }
