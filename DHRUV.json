@@ -1,6 +1,6 @@
 {
   "title": "DHRUV",
-  "description": "Super Commando Dhruva is a iconic superhero known for his exceptional intellect, martial arts prowess, and strategic thinking. Dhruva operates in the city of Rajnagar, fighting crime and defending the innocent with his array of gadgets and unmatched determination. His character is defined by his unwavering commitment to justice and his ability to outsmart his adversaries. ",
+  "description": "Super Commando Dhruva is a iconic superhero known for his exceptional intellect, martial arts prowess, and strategic thinking. Dhruva operates in the city of Rajnagar, fighting crime and defending the innocent with his array of gadgets and unmatched determination. His character is defined by his unwavering commitment to justice and his ability to outsmart his adversaries.",
   "artist": "Anupam Sinha",
   "author": "Anupam Sinha",
   "cover": "https://comicvine.gamespot.com/a/uploads/scale_large/5/56779/1154495-genl_0450_h.jpg",
@@ -59,6 +59,20 @@
       "last_updated": "1787587200",
       "groups": {
         "johndrippah": "/proxy/api/imgchest/chapter/agyvoe8nb78"
+      }
+    },
+    "007": {
+      "title": "GENL-0140-H-EC-BARF-KI-CHITA",
+      "last_updated": "1787591011",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/6eyro8a8lyp"
+      }
+    },
+    "009": {
+      "title": "GENL-0147-H-EC-LAHOO-KE-PYASE",
+      "last_updated": "1787591012",
+      "groups": {
+        "johndrippah": "/proxy/api/imgchest/chapter/9rydbaqa64k"
       }
     }
   }
